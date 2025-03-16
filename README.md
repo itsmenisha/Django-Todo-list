@@ -12,8 +12,8 @@ A simple **To-Do List** application built using **Django**. This project helped 
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/itsmenisha/projects/Beginner/todolist.git
-cd django-todolist
+git clone https://github.com/itsmenisha/Django-Todo-list.git
+cd Django-Todolist
 ```
 
 ### 2. Create and activate a virtual environment
